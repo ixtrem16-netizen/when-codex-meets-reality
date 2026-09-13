@@ -3,8 +3,6 @@
 # When Codex Meets Reality
 
 
-# When Codex Meets Reality
-
 ### Real-world experiments with Codex, persistent agents, infrastructure, devices and physical systems
 
 > **I rarely start technical projects by writing code anymore.**
