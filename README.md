@@ -75,6 +75,27 @@ It is not intended to prove that every experiment was autonomous or that every o
 
 It is a record of real-world human-agent collaboration and the questions that emerged from it.
 
+## Selected Public Projects
+
+These repositories are public examples of the kinds of systems, experiments and physical projects described in this portfolio.
+
+- **RPG** — game / Node.js experimentation  
+  https://github.com/ixtrem16-netizen/RPG
+
+- **Maison RMM** — private-infrastructure management concepts and automation  
+  https://github.com/ixtrem16-netizen/maison-rmm
+
+- **Samsung SM-T290 LineageOS work** — Android / ADB / device repurposing  
+  https://github.com/ixtrem16-netizen/sm-t290-lineage-binary5
+
+- **Eufy C30 Home Assistant MQTT** — Home Assistant / IoT integration  
+  https://github.com/ixtrem16-netizen/eufy-c30-home-assistant-mqtt
+
+- **R34 RC P1S** — 3D-printed RC / fabrication experimentation  
+  https://github.com/ixtrem16-netizen/r34-rc-p1s
+
+Some larger systems described in this portfolio remain private by design. Sanitized evidence and public-safe technical summaries are provided instead.
+
 ---
 
 # My working method
