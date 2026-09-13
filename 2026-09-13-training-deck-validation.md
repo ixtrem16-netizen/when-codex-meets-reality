@@ -31,3 +31,7 @@ Representative rendered slides and all source visuals were also inspected visual
 The four evidence placeholders remain visible by design. The draft is therefore marked `PASS_DRAFT_WITH_4_PLACEHOLDERS`; it will become a final presentation only after authorized captures or data replace them.
 
 The complete deck stays in private project storage. This public note records the method and validation result without publishing client or operational material.
+
+## Final evidence treatment
+
+The four placeholders were later closed with explicitly labelled synthetic reconstructions. The final PowerPoint round trip again passed all 64 slides, notes and source blocks. The labels preserve the distinction between reported observations, synthetic teaching material and results that still require a laboratory demonstration.
