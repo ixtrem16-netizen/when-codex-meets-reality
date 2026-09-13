@@ -324,6 +324,7 @@ A particularly important state in the project looked like this:
 BUILD VERIFIED    = YES
 QEMU VERIFIED     = YES
 PHYSICAL VERIFIED = NO
+```
 
 ---
 
