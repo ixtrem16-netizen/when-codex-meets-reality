@@ -1,3 +1,8 @@
+![When Codex Meets Reality](./file_00000000784c81f5b2022e9b9a5fae87.png)
+
+# When Codex Meets Reality
+
+
 # When Codex Meets Reality
 
 ### Real-world experiments with Codex, persistent agents, infrastructure, devices and physical systems
